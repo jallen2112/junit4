@@ -87,12 +87,12 @@
         <snapshotRepository>
             <id>maven-snapshots</id>
             <name>Nexus Snapshot Repository</name>
-            <url>http://192.168.0.17:8081/repository/maven-snapshots</url>
+            <url>http://192.168.0.28:8081/repository/maven-snapshots</url>
         </snapshotRepository>
         <repository>
             <id>maven-snapshots</id>
             <name>Nexus Release Repository</name>
-            <url>http://192.168.0.17:8081/repository/maven-snapshots</url>
+            <url>http://192.168.0.28:8081/repository/maven-snapshots</url>
         </repository>
         <site>
             <id>junit.github.io</id>
